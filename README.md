@@ -65,5 +65,4 @@
 | CI/CD           | Intégration continue           | Automatisation dans le pipeline DevOps         |
 
 ---
-
-Tu veux que je te montre un **exemple de rapport Checkmarx**, ou que je te compare **Checkmarx avec un autre outil** (comme SonarQube, Veracode, Snyk) ?
+ **Checkmarx** ou (comme SonarQube, Veracode, Snyk) pour la sécurité applicative
